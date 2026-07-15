@@ -7,16 +7,16 @@
       "end_timestamp": "2026-07-14T14:20:50+08:00",
       "markdown_size_bytes": 117776,
       "provider": "cursoride",
-      "last_updated": "2026-07-14T09:05:00Z"
+      "last_updated": "2026-07-15T08:22:46Z"
     },
     "abdc02a1-e30f-4d15-a532-4d8111b0a746": {
-      "user_message_count": 1,
-      "agent_message_count": 2,
+      "user_message_count": 3,
+      "agent_message_count": 10,
       "start_timestamp": "2026-07-14T17:04:41+08:00",
       "end_timestamp": "2026-07-14T17:04:41+08:00",
-      "markdown_size_bytes": 923,
+      "markdown_size_bytes": 6946,
       "provider": "cursoride",
-      "last_updated": "2026-07-14T09:21:00Z"
+      "last_updated": "2026-07-15T08:23:00Z"
     }
   }
 }
